@@ -5,12 +5,12 @@
 1. ***sudo command***
 
     sudo apt upgrade
-![sudo apt upgrade ](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/50014478-56a6-45c2-832b-4d5d8c8584d7)
+    ![sudo apt upgrade ](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/50014478-56a6-45c2-832b-4d5d8c8584d7)
 
 2. ***pwd command***
 
     pwd
-![pwd](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/fb6f6085-4d6c-4fff-9a52-8bc68c545dcd)
+    ![pwd](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/fb6f6085-4d6c-4fff-9a52-8bc68c545dcd)
 
 3. ***cd command***
 
