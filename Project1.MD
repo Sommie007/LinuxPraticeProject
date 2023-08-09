@@ -50,6 +50,8 @@
 
     mv
 
+    ![mv   rename](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/64168c03-b53a-4685-85e2-b0532798cd4d)
+
     ![mv](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/2bf0e030-5720-4ea4-a347-ba808c334333)
 
 8.  ***mkdir command***
