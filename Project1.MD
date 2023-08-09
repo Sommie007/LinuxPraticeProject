@@ -5,29 +5,39 @@
 1. ***sudo command***
 
     sudo apt upgrade
+
         ![sudo apt upgrade ](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/50014478-56a6-45c2-832b-4d5d8c8584d7)
 
 2. ***pwd command***
 
     pwd
+
         ![pwd](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/fb6f6085-4d6c-4fff-9a52-8bc68c545dcd)
 
 3. ***cd command***
 
     cd
+
         ![cd](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/317697a1-dfcd-4ee4-94f1-ba6b0622af0c)
+
 4. ***ls command***
 
     ls
+
       ![ls](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/0ab6fe3c-2758-4336-b87e-4baffc5c0c40)
+
     ls -R
+
         ![ls -R](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/a8018da4-5b49-4b52-9469-564bf7b185c1)
+
     ls -a
+
         ![ls-R](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/7fee3ff9-8fb1-4fbc-aff1-b1bb29944160)
 
 5. ***cat command***
 
     cat
+
         ![cat](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/c4eacf77-bb86-429a-97bd-5632d3e3d438)
 
 6.  ***cp command***
