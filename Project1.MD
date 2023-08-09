@@ -5,17 +5,19 @@
 1. ***sudo command***
 
     sudo apt upgrade
-![Alt text](Screenshots/sudo%20apt%20upgrade%20.png)
+(https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/d04f1337-2884-4629-9cdc-a889c767e4a0)
 
 2. ***pwd command***
 
     pwd
-![Alt text](Screenshots/pwd.png)
+(https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/8adeee82-7f27-4c5a-b182-0703e5635842)
+![pwd]
 
 3. ***cd command***
 
     cd
-    ![Alt text](Screenshots/cd.png)
+    (https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/e3aa3ae3-9afa-4045-a729-7945cdaab1ce)
+![cd]
 4. ***ls command***
 
     ls
