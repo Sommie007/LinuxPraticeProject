@@ -105,7 +105,7 @@
      tar   
         ![tar](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/7c1e7cb5-b743-4d00-ade6-bf35992cd4a3)
 
-..............................***FILE PERMISSION AND OWNERSHIP***..................................
+...................................***FILE PERMISSION AND OWNERSHIP***................................................
 
 21. ***chmod command***
 
@@ -189,8 +189,10 @@
     nano and vi
         ![nano   vi](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/40f0d1e3-97c2-469f-9d36-02472b97eba8)
     nano
+
         ![nano](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/3a331641-80fa-4c8e-a333-a2e8ea950023)
     vi
+
         ![vi](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/63435fc5-caed-4369-8d70-4b86da4b1333)
 
 37. ***alias and unalias command***
