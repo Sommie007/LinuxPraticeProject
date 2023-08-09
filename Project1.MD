@@ -110,7 +110,7 @@
 21. ***chmod command***
 
     chmod
-    ![Alt text](Screenshots/tar/chmod.png)
+    ![chmod](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/7cfc95ce-2c99-496e-89e4-69abfbfc0944)
 
 22. ***chown command***
 
@@ -167,7 +167,7 @@
 32. ***zip and unzip command***
 
     zip and unzip
-    ![Alt text](Screenshots/zip/zip%20&%20unzip.png)
+    ![zip   unzip](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/231163e5-278f-42ce-a7b9-2d7dcda72464)
 
 33. ***hostname command***
 
@@ -187,7 +187,7 @@
 36. ***nano and vi command***
 
     nano and vi
-    ![Alt text](Screenshots/nano/nano%20&%20vi.png)
+    ![nano   vi](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/40f0d1e3-97c2-469f-9d36-02472b97eba8)
     nano
     ![nano](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/3a331641-80fa-4c8e-a333-a2e8ea950023)
     vi
@@ -196,7 +196,7 @@
 37. ***alias and unalias command***
 
     alias and unalias
-    ![Alt text](Screenshots/alias/alias%20&%20unalias.png)
+    ![alias   unalias](https://github.com/Sommie007/LinuxPraticeProject/assets/139817771/20826fab-de07-487b-8cac-ae2ac6faa1d4)
 
 38. ***su command***
 
